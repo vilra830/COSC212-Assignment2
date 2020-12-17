@@ -1,0 +1,2 @@
+# COSC212-Assignment2
+A web application called Escape Holiday Park that allows users to browse various campsite accommodations with descriptions and prices. It then enables customers to make a booking of the chosen campsite. JavaScript is used to pre-validate the chosen check-in and checkout dates and enables available campsites for booking. PHP is then used to post validate the inputs before it successfully adds the booking as JSON to the json files. HTML and CSS are used to design and build the web pages. 
